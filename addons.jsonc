@@ -10,6 +10,12 @@
       "subfolder": "addons/funk",
       "source": "remote",
       "checkout": "dev"
+    },
+    "godot-fs": {
+      "url": "https://github.com/TravelSizedLions/godot-fs.git",
+      "subfolder": "addons/fs",
+      "source": "remote",
+      "checkout": "dev"
     }
   }
 }
