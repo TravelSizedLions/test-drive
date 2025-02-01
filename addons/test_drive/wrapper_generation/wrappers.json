@@ -1,0 +1,133 @@
+{
+  "EditorInterface": {
+    "properties": [
+      "distraction_free_mode",
+      "movie_maker_enabled"
+    ],
+    "methods": [
+      "edit_node",
+      "edit_resource",
+      "edit_script",
+      "get_base_control",
+      "get_command_palette",
+      "get_current_directory",
+      "get_current_feature_profile",
+      "get_current_path",
+      "get_edited_scene_root",
+      "get_editor_main_screen",
+      "get_editor_paths",
+      "get_editor_scale",
+      "get_editor_settings",
+      "get_editor_theme",
+      "get_editor_viewport_2d",
+      "get_editor_viewport_3d",
+      "get_file_system_dock",
+      "get_inspector",
+      "get_open_scenes",
+      "get_playing_scene",
+      "get_resource_filesystem",
+      "get_resource_previewer",
+      "get_script_editor",
+      "get_selected_paths",
+      "get_selection",
+      "inspect_object",
+      "is_multi_window_enabled",
+      "is_playing_scene",
+      "is_plugin_enabled",
+      "make_mesh_previews",
+      "mark_scene_as_unsaved",
+      "open_scene_from_path",
+      "play_current_scene",
+      "play_custom_scene",
+      "play_main_scene",
+      "popup_dialog",
+      "popup_dialog_centered",
+      "popup_dialog_centered_clamped",
+      "popup_dialog_centered_ratio",
+      "popup_node_selector",
+      "popup_property_selector",
+      "reload_scene_from_path",
+      "restart_editor",
+      "save_all_scenes",
+      "save_scene",
+      "save_scene_as",
+      "select_file",
+      "set_current_feature_profile",
+      "set_main_screen_editor",
+      "set_plugin_enabled",
+      "stop_playing_scene"
+    ]
+  },
+  "EditorSettings": {
+    "properties": [],
+    "methods": [
+      "add_property_info",
+      "check_changed_settings_in_group",
+      "erase",
+      "get_changed_settings",
+      "get_favorites",
+      "get_project_metadata",
+      "get_recent_dirs",
+      "get_setting",
+      "has_setting",
+      "mark_setting_changed",
+      "set_builtin_action_override",
+      "set_favorites",
+      "set_initial_value",
+      "set_project_metadata",
+      "set_recent_dirs",
+      "set_setting"
+    ]
+  },
+  "EditorPaths": {
+    "methods": [
+      "get_cache_dir",
+      "get_config_dir",
+      "get_data_dir",
+      "get_project_settings_dir",
+      "get_self_contained_file",
+      "is_self_contained"
+    ]
+  },
+  "EditorInspector": {
+    "properties": [
+      "horizontal_scroll_mode"
+    ],
+    "methods": [
+      "get_edited_object",
+      "get_selected_path"
+    ]
+  },
+  "EditorUndoRedoManager": {
+    "methods": [
+      "add_do_method",
+      "add_do_property",
+      "add_do_reference",
+      "add_undo_method",
+      "add_undo_property",
+      "add_undo_reference",
+      "commit_action",
+      "create_action",
+      "force_fixed_history",
+      "get_history_undo_redo",
+      "get_object_history_id",
+      "is_committing_action"
+    ]
+  },
+  "ScriptEditor": {
+    "methods": [
+      "add_do_method",
+      "add_do_property",
+      "add_do_reference",
+      "add_undo_method",
+      "add_undo_property",
+      "add_undo_reference",
+      "commit_action",
+      "create_action",
+      "force_fixed_history",
+      "get_history_undo_redo",
+      "get_object_history_id",
+      "is_committing_action"
+    ]
+  }
+}

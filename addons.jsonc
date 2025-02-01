@@ -1,0 +1,15 @@
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "name": "test-drive",
+  "description": "A unit testing suite for godot test driven development",
+  "version": "0.0.0",
+  "cache": "../.addons",
+  "addons": {
+    "funk": {
+      "url": "https://github.com/TravelSizedLions/funk.git",
+      "subfolder": "addons/funk",
+      "source": "remote",
+      "checkout": "dev"
+    }
+  }
+}
