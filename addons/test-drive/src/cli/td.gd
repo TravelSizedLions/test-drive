@@ -38,7 +38,7 @@ func __add_flavor():
   await create_timer(1).timeout
 
 func __run_cli():
-  var cli_file = FS.search_dir('res://addons/test_drive', '*__td_cli__.gd', true)[0]
+  var cli_file = FS.search_dir('res://addons/test-drive', '*__td_cli__.gd', true)[0]
   var script = load(cli_file)
   var cli = script.new()
   get_root().add_child(cli)

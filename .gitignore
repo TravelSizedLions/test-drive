@@ -1,8 +1,8 @@
 .godot/
 addons/*
 !addons/.editorconfig
-!addons/test_drive/
-addons/test_drive/mock_classes/
+!addons/test-drive/
+addons/test-drive/mock_classes/
 
 
 .addons/*
