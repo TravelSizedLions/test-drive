@@ -9,4 +9,4 @@ jobs:
   unit-tests:
     name: Unit Tests
     runs-on: ubuntu-24.04
-    uses: TravelSizedLions/.github/workflows/merge-request.yaml@dev
+    uses: TravelSizedLions/actions/.github/workflows/merge-request.yaml@dev
