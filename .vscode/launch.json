@@ -1,0 +1,36 @@
+{
+	"version": "2.0.0",
+	"configurations": [
+		{
+			"name": "Test Drive - All",
+			"type": "godot",
+			"request": "launch",
+			"additional_options": "--single-threaded-scene --headless -s addons/test_drive/td.gd"
+		},
+		{
+			"name": "Test Drive - Current File",
+			"type": "godot",
+			"request": "launch",
+			"additional_options": "--single-threaded-scene --headless -s addons/test_drive/td.gd --file ${file}"
+		},
+    {
+      "name": "Test Drive - Gen Wrappers",
+      "type": "godot",
+      "request": "launch",
+      "additional_options": "--single-threaded-scene --headless -s addons/test_drive/wrapper_generation/generate.gd"
+    },
+		{
+				"name": "Launch",
+				"type": "godot",
+				"request": "launch",
+				"project": "${workspaceRoot}/recordkeeper/",
+				"scene": "main",
+		},
+		{
+				"name": "Launch Current Scene",
+				"type": "godot",
+				"request": "launch",
+				"scene": "current"
+		}
+	]
+}
