@@ -13,3 +13,7 @@ config_version=5
 config/name="test-drive"
 run/main_scene="uid://bkwa1c70gi54c"
 config/features=PackedStringArray("4.4", "Forward Plus")
+
+[autoload]
+
+TreeAccess="*res://addons/tree-access/tree_access.gd"
