@@ -10,6 +10,6 @@ config_version=5
 
 [application]
 
-config/name="Test Drive"
+config/name="test-drive"
 run/main_scene="uid://bkwa1c70gi54c"
 config/features=PackedStringArray("4.4", "Forward Plus")

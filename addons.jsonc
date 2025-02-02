@@ -28,6 +28,12 @@
       "subfolder": "addons/gdlibstring",
       "source": "remote",
       "checkout": "dev"
+    },
+    "gdlibnode": {
+      "url": "https://github.com/TravelSizedLions/gdlibnode.git",
+      "subfolder": "addons/gdlibnode",
+      "source": "remote",
+      "checkout": "dev"
     }
   }
 }
