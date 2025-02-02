@@ -16,6 +16,12 @@
       "subfolder": "addons/fs",
       "source": "remote",
       "checkout": "dev"
+    },
+    "autofree": {
+      "url": "https://github.com/TravelSizedLions/autofree.git",
+      "subfolder": "addons/autofree",
+      "source": "remote",
+      "checkout": "dev"
     }
   }
 }
