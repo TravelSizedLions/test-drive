@@ -3,7 +3,7 @@ run-name: '#${{github.event.pull_request.number}}: "${{github.event.pull_request
 on:
   pull_request:
     branches:
-      - main
+      - dev
 
 jobs:
   unit-tests:
