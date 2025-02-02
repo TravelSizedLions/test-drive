@@ -11,15 +11,21 @@
       "source": "remote",
       "checkout": "dev"
     },
-    "godot-fs": {
-      "url": "https://github.com/TravelSizedLions/godot-fs.git",
-      "subfolder": "addons/fs",
-      "source": "remote",
-      "checkout": "dev"
-    },
     "autofree": {
       "url": "https://github.com/TravelSizedLions/autofree.git",
       "subfolder": "addons/autofree",
+      "source": "remote",
+      "checkout": "dev"
+    },
+    "gdlibfs": {
+      "url": "https://github.com/TravelSizedLions/gdlibfs.git",
+      "subfolder": "addons/gdlibfs",
+      "source": "remote",
+      "checkout": "dev"
+    },
+    "gdlibstring": {
+      "url": "https://github.com/TravelSizedLions/gdlibstring.git",
+      "subfolder": "addons/gdlibstring",
       "source": "remote",
       "checkout": "dev"
     }
