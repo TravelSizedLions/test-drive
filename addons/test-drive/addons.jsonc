@@ -9,31 +9,31 @@
       "url": "https://github.com/TravelSizedLions/funk.git",
       "subfolder": "addons/funk",
       "source": "remote",
-      "checkout": "dev"
+      "checkout": "v0.0.3"
     },
     "autofree": {
       "url": "https://github.com/TravelSizedLions/autofree.git",
       "subfolder": "addons/autofree",
       "source": "remote",
-      "checkout": "dev"
+      "checkout": "v0.0.3"
     },
     "gdlibfs": {
       "url": "https://github.com/TravelSizedLions/gdlibfs.git",
       "subfolder": "addons/gdlibfs",
       "source": "remote",
-      "checkout": "dev"
+      "checkout": "v0.0.1"
     },
     "gdlibstring": {
       "url": "https://github.com/TravelSizedLions/gdlibstring.git",
       "subfolder": "addons/gdlibstring",
       "source": "remote",
-      "checkout": "dev"
+      "checkout": "v0.0.1"
     },
     "gdlibnode": {
       "url": "https://github.com/TravelSizedLions/gdlibnode.git",
       "subfolder": "addons/gdlibnode",
       "source": "remote",
-      "checkout": "dev"
+      "checkout": "v0.0.3"
     }
   }
 }
