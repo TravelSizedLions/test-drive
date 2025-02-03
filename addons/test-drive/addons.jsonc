@@ -2,7 +2,7 @@
   "$schema": "https://chickensoft.games/schemas/addons.schema.json",
   "name": "test-drive",
   "description": "A unit testing suite for godot test driven development",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "cache": "../.addons",
   "addons": {
     "funk": {
