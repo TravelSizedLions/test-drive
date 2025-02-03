@@ -9,13 +9,13 @@
       "url": "https://github.com/TravelSizedLions/funk.git",
       "subfolder": "addons/funk",
       "source": "remote",
-      "checkout": "v0.0.1"
+      "checkout": "v0.0.3"
     },
     "autofree": {
       "url": "https://github.com/TravelSizedLions/autofree.git",
       "subfolder": "addons/autofree",
       "source": "remote",
-      "checkout": "v0.0.1"
+      "checkout": "v0.0.3"
     },
     "gdlibfs": {
       "url": "https://github.com/TravelSizedLions/gdlibfs.git",
